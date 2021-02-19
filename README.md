@@ -21,7 +21,7 @@ This project was built using Ruby on Rails.
 - Clone this repo to your local enviroment.
 - Open your terminal and `cd` to the `re-former` folder you just cloned.
 - Run migrate the tables to your local enviroment by running: `rails db:migrate`
-- Run the rails server: `rails console`
+- Run the rails server: `rails server`
 - Open your browser of choice.
 - Go to http://localhost:3000/users/new to create a new user.
   - Fill the forms (don't leave anything blank), and click on submit.
